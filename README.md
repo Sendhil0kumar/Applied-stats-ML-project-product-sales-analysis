@@ -3,6 +3,9 @@
 ### Objective
 To analyze the factors driving product sales and determine if a predictive model could forecast customer purchase behavior (i.e., purchase quantity).
 
+### Dataset
+The data used for this analysis is the **[Product Sales Dataset (2023–2024)](https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024)** available on Kaggle.
+
 ---
 
 ### Part 1: Exploratory Data Analysis (EDA) & Statistics
